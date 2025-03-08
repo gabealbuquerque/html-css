@@ -4,4 +4,4 @@ Espero que goste!
 Cordialmente,
 Gabriel de A. Vasconcelos.
 
-<a href="https://gabealbuquerque.github.io/html-css/android-guanabara/android.html">Executar o site Android</a>
+<a href="https://gabealbuquerque.github.io/html-css/android-guanabara/android.html" target='_blank'>Executar o site Android</a>
